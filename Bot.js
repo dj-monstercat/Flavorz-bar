@@ -177,7 +177,7 @@
         loggedInID: null,
         scriptLink: "https://rawgit.com/dj-monstercat/Flavorz-bar/master/Bot.js",
         cmdLink: "http://goo.gl/qPOuYn",
-        chatLink: "https://rawgit.com/EDM-Birthday/EDM-Nation-Bot/Bot.js/en.json",
+        chatLink: "https://rawgit.com/dj-monstercat/Flavorz-bar/master/en.json",
         chat: null,
         loadChat: loadChat,
         retrieveSettings: retrieveSettings,
