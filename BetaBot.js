@@ -185,7 +185,7 @@
         settings: {
             botName: "EDM-Nation Bot",
             language: "english",
-            chatLink: "https://rawgit.com/EDM-Birthday/EDM-Nation-Bot/Bot.js/en.json",
+            chatLink: "https://rawgit.com/dj-monstercat/Flavorz-bar/master/en.json",
             maximumAfk: 120,
             afkRemoval: false,
             maximumDc: 60,
